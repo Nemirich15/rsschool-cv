@@ -37,6 +37,24 @@ aside {
   background-color: #f5f5f5;
   
 }
+.icons {
+  position: relative;
+  top: 307px;
+  left: 30px;
+  width: 25px;
+  height: 25px;
+}
+#phone {
+  position: relative;
+  top: 357px;
+  left: 0px;
+}
+
+#house {
+  position: relative;
+  top: 405px;
+  left: -25px;
+}
   
   main {
     position: relative;
@@ -91,28 +109,30 @@ footer {
   text-align: center;
   font-size: 19px;
   font-weight: 500;
-  color: #000000;
 }
 
-.nav
- .li:hover {
-  background-color: #000000;
-
+.a {
+  color: #f5f5f5;
+}
+.a:hover{
+  color: #000000;
+  background-color: #fafafa;
 }
 
 #contacts {
   position: relative;
-  top: 230px;
-  left: 0px;
+  top: 250px;
+  left: 30px;
   
   line-height: 50px;
+  list-style: none;
 
 }
 
 h2 {
   position: relative;
-  left: 55px;
-  top: 20px;
+  left: 85px;
+  top: 250px;
 }
 
 .about {
@@ -210,13 +230,13 @@ h2 {
 .h2code {
   position: relative;
   top: -5px;
-  left: 80px;
+  left: 65px;
 }
 
-.code {
+pre {
   position: relative;
   top: -5px;
-  right: 250px;
+  right: 200px;
 
   font-size: 16px;
 }
@@ -256,17 +276,10 @@ h2 {
   font-size: 35px;
 }
 
-.a {
-  color: #f5f5f5;
-}
-.a:hover{
-  color: #ffff00;
-}
-
 #ssilka_rs {
   position: relative;
   left:250px;
-  top: 15px;
+  top: -130px;
 
   display: block;
   width: 170px;
@@ -280,13 +293,13 @@ h2 {
 
 #to_rs {
   position: relative;
-  top: -35px;
+  top: 5px;
 }
 
 #rs_school {
   position: relative;
-  bottom: 80px;
-  left: -400px;
+  bottom: 225px;
+  left: 50px;
 
   width: 150px;
   height: 150px;
@@ -295,7 +308,7 @@ h2 {
 #year {
   position: relative;
   left: -50px;
-  top: 20px;
+  top: -250px;
   
   float: right;
 }
@@ -303,8 +316,7 @@ h2 {
  #github
  .git {
   position: relative;
-  top: 270px;
-  left: -85px;
+ 
 
   float: right;
   color: #000000;
@@ -315,8 +327,7 @@ h2 {
 
 .github-icon {
   position: relative;
-  top: 225px;
-  left: 120px;
+
 
   width: 50px;
   height: 50px;
@@ -325,27 +336,63 @@ h2 {
 
 }
 
-.footer_nav .li{
+.footer_nav {
   position: relative;
   top: 10px;
-  left: 700px;
+  left: 900px;
   
-  display: inline;
-  float: left;
+  display: inline-block;
   width: 110px;
+  padding: 10px;
   margin-right: 20px;
 
   cursor: pointer;
   text-align: center;
   font-size: 19px;
   font-weight: 500;
-  background-color: #000000;
-  color: #000000;
-}
+  list-style-type: none;
+  }
 
-.footer_nav
- .li:hover {
+  #a1 {
+  position: relative;
+  top: -3px;
+  right:150px;
+
   background-color: #fafafa;
   color: #000000;
-
+  
 }
+
+#a2 {
+  position: relative;
+  top: -25px;
+  right: 22px;
+
+  background-color: #fafafa;
+  color: #000000;
+  
+}
+#a3 {
+  position: relative;
+  top: -45px;
+  left: 120px;
+
+  background-color: #fafafa;
+  color: #000000;
+  
+}
+
+#a3:hover {
+  background-color: #808080;
+  color: #fafafa;
+}
+#a2:hover {
+  background-color: #808080;
+  color: #fafafa;
+}
+#a1:hover {
+  background-color:#808080;
+  color: #fafafa;
+}
+
+
