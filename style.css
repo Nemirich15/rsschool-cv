@@ -307,8 +307,8 @@ pre {
 
 #year {
   position: relative;
-  left: -50px;
-  top: -250px;
+  left: 140px;
+  top: -125px;
   
   float: right;
 }
@@ -316,6 +316,8 @@ pre {
  #github
  .git {
   position: relative;
+  top: -180px;
+  left: -540px;
  
 
   float: right;
@@ -327,6 +329,8 @@ pre {
 
 .github-icon {
   position: relative;
+  top: -275px;
+  left: 360px;
 
 
   width: 50px;
@@ -356,7 +360,7 @@ pre {
   #a1 {
   position: relative;
   top: -3px;
-  right:150px;
+  right:100px;
 
   background-color: #fafafa;
   color: #000000;
@@ -366,7 +370,7 @@ pre {
 #a2 {
   position: relative;
   top: -25px;
-  right: 22px;
+  right: -28px;
 
   background-color: #fafafa;
   color: #000000;
@@ -375,7 +379,7 @@ pre {
 #a3 {
   position: relative;
   top: -45px;
-  left: 120px;
+  left: 170px;
 
   background-color: #fafafa;
   color: #000000;
