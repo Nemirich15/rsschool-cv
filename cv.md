@@ -61,6 +61,3 @@ func print {
 I think it's everage spoken level.
 (A2).
 
-
-
-[def]: "phone"
