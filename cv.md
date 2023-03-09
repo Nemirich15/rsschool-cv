@@ -3,8 +3,8 @@
 
 ## Contacts
 
-![phone](assets/phone.svg "phone svg")+375-25-9015155
-![email](assets/mail.svg "e-mail svg")e-mail: nemirka15@gmail.com
+##+375-25-9015155
+##e-mail: nemirka15@gmail.com
 
 =============================
 ## About Me
