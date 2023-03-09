@@ -29,7 +29,6 @@ Complede a course JS/FE Pre-School2022Q4.
 * Projects:
     + Plants
         - (plants1/2/3(20022-23))[https://github.com/rolling-scopes-school/nemirich15-JSFEPRESCHOOL2022Q4/tree/plants-part3/plants.]
-       
     + Momentum
         - (momentum 2023)[https://github.com/rolling-scopes-school/nemirich15-JSFEPRESCHOOL2022Q4/tree/momentum/momentum.]
        
