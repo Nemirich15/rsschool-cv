@@ -1,5 +1,5 @@
 # Constantin Nemirka
-![me](assets/I.jpg "my fhoto")
+![me](assets/Me3.jpg "my fhoto")
 
 ## Contacts
 
@@ -20,8 +20,8 @@ All my life i've been taught to work as a team. I think that's my strong suit.
 
 >I can work like ice hockey coach
 and fitness coach. 
-I'm touched a little bit C#, Java, Python.
-Complede a course JS/FE Pre-School2022Q4.
+>I'm touched a little bit C#, Java, Python.
+>Complede a course JS/FE Pre-School2022Q4.
 * Using of skills
     + HTML
     + CSS
