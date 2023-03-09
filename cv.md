@@ -1,9 +1,9 @@
 # Constantin Nemirka
-![me](/assets/I.gpg "my fhoto")
+![me](/assets/I.jpg "my fhoto")
 
 ## Contacts
 
-+375-25-9015155
+![phone](/assets/phone.svg "phone")+375-25-9015155
 e-mail: nemirka15@gmail.com
 
 =============================
@@ -61,3 +61,6 @@ func print {
 I think it's everage spoken level.
 (A2).
 
+
+
+[def]: "phone"
